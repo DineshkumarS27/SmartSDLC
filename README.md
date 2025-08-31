@@ -55,5 +55,5 @@ Open the Gradio link in your browser to interact with the tool.
 already uploaded in Github repo
 
 🎥 Demo Video
-https://drive.google.com/file/d/1Y3Zw49MHzZVog-i6upDZZTOcEttesfw9/view?usp=drive_link
+https://drive.google.com/file/d/15y6K3EiYs189_jYvk5uyIfxQJLrzLewd/view?usp=drive_link
 
